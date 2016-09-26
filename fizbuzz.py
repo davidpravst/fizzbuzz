@@ -22,5 +22,5 @@ while stevec <= stevilo:
     elif stevec%5 == 0:
         print "buzz"
     else:
-        print (stevec)
+        print stevec
     stevec = stevec + 1
